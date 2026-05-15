@@ -27,8 +27,7 @@ public:
     }
 };
 
-int main() {
-    
+int main() {  
 Gradebook myGradebook1("CS101 Introduction to C++ Programming");
 myGradebook1.displayMessage();
 Gradebook myGradebook2("CS102 C++ Data Structures");
